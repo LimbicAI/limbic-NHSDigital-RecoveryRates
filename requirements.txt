@@ -1,0 +1,11 @@
+jupyter
+matplotlib
+ipywidgets==7.7.2
+requests
+pandas
+numpy
+python-dotenv
+python-dateutil
+scipy 
+statsmodels
+iteration-utilities
